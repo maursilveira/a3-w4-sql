@@ -29,5 +29,5 @@
   }
 
   getButton.forEach(button => button.addEventListener('click', fetchData, false));
-  deleteButton.addEventListener('click', deleteRecord, false);
+  // deleteButton.addEventListener('click', deleteRecord, false);
 })();
